@@ -1,7 +1,7 @@
 from datetime import datetime
 import subprocess
 
-FILE = "devlog.md"
+FILE = "/Users/colepuls/Desktop/projects/devlogger/devlog.md"
 REPO_PATH = "/Users/colepuls/Desktop/projects/devlogger"
 
 def dev_entry(project, worked_on, time_spent, notes):
