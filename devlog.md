@@ -22,3 +22,15 @@
 **Notes:** Update to show book, chapter, and verse number.
 
 
+
+## 2025-12-09 15:56
+
+**Project:** \Pico
+
+**Work done:** Finished bibleverse skill, added book, chapter, and verse number.
+
+**Time spent:** ~30 min
+
+**Notes:** Move onto next skill
+
+
