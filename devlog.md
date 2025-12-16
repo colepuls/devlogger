@@ -34,3 +34,15 @@
 **Notes:** Move onto next skill
 
 
+
+## 2025-12-16 16:33
+
+**Project:** Pico
+
+**Work done:** Started implementing facedetection tracking, read docs, did some learning. Also fixed physical camera setup, messed around with camera and servo some also.
+
+**Time spent:** ~3.5hrs
+
+**Notes:** Continue working on facedetection and servo tracking.
+
+
