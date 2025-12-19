@@ -46,3 +46,15 @@
 **Notes:** Continue working on facedetection and servo tracking.
 
 
+
+## 2025-12-19 16:10
+
+**Project:** Pico
+
+**Work done:** Messed with facetracker params, added report devlog skill, fixed currupted git repo.
+
+**Time spent:** ~3hrs
+
+**Notes:** Start working on moving servo control to arduino next.
+
+
