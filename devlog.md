@@ -58,3 +58,15 @@
 **Notes:** Start working on moving servo control to arduino next.
 
 
+
+## 2025-12-20 18:43
+
+**Project:** Pico
+
+**Work done:** Took physical build apart and tested janky setup.
+
+**Time spent:** 1.5hrs
+
+**Notes:** Need to design a new build, need to figure out how to put less weight on the servo.
+
+
