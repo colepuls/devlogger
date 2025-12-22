@@ -82,3 +82,15 @@
 **Notes:** Need to thread and implement stop alarm functionality, also implement into main loop.
 
 
+
+## 2025-12-22 11:39
+
+**Project:** Pico
+
+**Work done:** Moved alarm code into main loop.
+
+**Time spent:** 1hr
+
+**Notes:** Need to thread the process and add a stop_alarm feature that ends the thread process.
+
+
