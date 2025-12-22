@@ -70,3 +70,15 @@
 **Notes:** Need to design a new build, need to figure out how to put less weight on the servo.
 
 
+
+## 2025-12-21 18:18
+
+**Project:** Pico
+
+**Work done:** Wrote set alarm code for Pico locally on my mac.
+
+**Time spent:** 2hrs
+
+**Notes:** Need to thread and implement stop alarm functionality, also implement into main loop.
+
+
