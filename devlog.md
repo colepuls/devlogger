@@ -94,3 +94,15 @@
 **Notes:** Need to thread the process and add a stop_alarm feature that ends the thread process.
 
 
+
+## 2025-12-25 16:40
+
+**Project:** Pico
+
+**Work done:** Tested how I would draw a face for Pico using pygame + some other visual elements.
+
+**Time spent:** 1hr
+
+**Notes:** Add new code and test new lcd on Pi.
+
+
