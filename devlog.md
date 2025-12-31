@@ -106,3 +106,15 @@
 **Notes:** Add new code and test new lcd on Pi.
 
 
+
+## 2025-12-30 20:36
+
+**Project:** Pico
+
+**Work done:** Worked on coding face and dashboard screen using pygame.
+
+**Time spent:** 2hrs
+
+**Notes:** Continue
+
+
