@@ -118,3 +118,15 @@
 **Notes:** Continue
 
 
+
+## 2026-01-07 00:50
+
+**Project:** Pico
+
+**Work done:** Messed with fixing pi desktop loop
+
+**Time spent:** 7hrs
+
+**Notes:** Ended up chalking it, just going to use CLI for visual instead.
+
+
